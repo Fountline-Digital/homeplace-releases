@@ -103,8 +103,10 @@ Your phone has to be on the **same Wi-Fi** as the display.
 - **iPhone (Safari):** Share → **Add to Home Screen**.
 - **Android (Chrome):** ⋮ → **Add to Home screen**.
 
-**Away from home?** Turn on 🌐 Remote access in ⚙ Settings → Extensions. It
-explains how to use the free Tailscale app to reach your display from anywhere.
+**Away from home?** In ⚙ Settings → Extensions, turn on 🌐 Remote access. Open
+it, tap **Install Tailscale**, then scan the code with your phone and sign in to
+a free Tailscale account. Put the Tailscale app on your phone with the same
+account, and Homeplace opens from anywhere.
 
 ## Add your calendars
 
